@@ -3,7 +3,7 @@
 ### Acesso
 ***Atenção aplicação não foi portada para dispositivos móveis**
 
-***Para utilizar o app acesse: https://wallet.netlify.app***
+***Para utilizar o app acesse: https://converter-wallet.netlify.app***
 
 Wallet é uma aplicação web que converte seus gastos com moedas estrangeiras para o real.
 
